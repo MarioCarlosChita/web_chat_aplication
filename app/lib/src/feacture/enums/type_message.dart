@@ -1,0 +1,6 @@
+
+
+enum TypeMessage {
+    PHOTOS,
+    NORMAL
+}
